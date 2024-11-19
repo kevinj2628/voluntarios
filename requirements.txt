@@ -1,0 +1,10 @@
+django==3.2.2
+argon2-cffi==20.1.0
+django-cors-headers==3.7.0
+django-environ==0.4.5
+djangorestframework==3.12.4
+pillow==8.2.0
+psycopg2==2.8.6
+stripe==2.58.0
+
+django-allauth==0.44.0
